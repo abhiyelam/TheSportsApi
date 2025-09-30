@@ -13,7 +13,7 @@ namespace TheSportsApi.BLogic
 {
     public class PlayerService
     {
-        //private static readonly HttpClient client = new HttpClient();
+        private static readonly HttpClient client = new HttpClient();
         string plyerlisturl = "https://api.thesports.com/v1/cricket/player/list?user={0}&secret={1}";
         public bool Sport_GetPlayer(string username,string secretekey)
         {
