@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\php\\TFSV1\\TheSportsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|d:\\php\\tfsv1\\thesportsapi\\blogic\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|solutionrelative:blogic\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|d:\\php\\tfsv1\\thesportsapi\\blogic\\matchesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|solutionrelative:blogic\\matchesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|d:\\php\\tfsv1\\thesportsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|d:\\php\\tfsv1\\thesportsapi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|d:\\php\\tfsv1\\thesportsapi\\blogic\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|solutionrelative:blogic\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|d:\\php\\tfsv1\\thesportsapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|solutionrelative:entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|d:\\php\\tfsv1\\thesportsapi\\entity\\teamplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32FE6EF-8A7C-4669-9393-0C225675E86E}|TheSportsApi.csproj|solutionrelative:entity\\teamplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\php\\TFSV1\\TheSportsApi\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\php\\TFSV1\\TheSportsApi\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T06:33:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "D:\\php\\TFSV1\\TheSportsApi\\BLogic\\PlayerService.cs",
+              "RelativeDocumentMoniker": "BLogic\\PlayerService.cs",
+              "ToolTip": "D:\\php\\TFSV1\\TheSportsApi\\BLogic\\PlayerService.cs",
+              "RelativeToolTip": "BLogic\\PlayerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:45:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "D:\\php\\TFSV1\\TheSportsApi\\BLogic\\CountryService.cs",
+              "RelativeDocumentMoniker": "BLogic\\CountryService.cs",
+              "ToolTip": "D:\\php\\TFSV1\\TheSportsApi\\BLogic\\CountryService.cs",
+              "RelativeToolTip": "BLogic\\CountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:23:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\php\\TFSV1\\TheSportsApi\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "Entity\\Category.cs",
+              "ToolTip": "D:\\php\\TFSV1\\TheSportsApi\\Entity\\Category.cs",
+              "RelativeToolTip": "Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:23:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamPlayer.cs",
+              "DocumentMoniker": "D:\\php\\TFSV1\\TheSportsApi\\Entity\\TeamPlayer.cs",
+              "RelativeDocumentMoniker": "Entity\\TeamPlayer.cs",
+              "ToolTip": "D:\\php\\TFSV1\\TheSportsApi\\Entity\\TeamPlayer.cs",
+              "RelativeToolTip": "Entity\\TeamPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:04:33.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchesService.cs",
+              "DocumentMoniker": "D:\\php\\TFSV1\\TheSportsApi\\BLogic\\MatchesService.cs",
+              "RelativeDocumentMoniker": "BLogic\\MatchesService.cs",
+              "ToolTip": "D:\\php\\TFSV1\\TheSportsApi\\BLogic\\MatchesService.cs",
+              "RelativeToolTip": "BLogic\\MatchesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:04:21.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\php\\TFSV1\\TheSportsApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\php\\TFSV1\\TheSportsApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:03:09.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
